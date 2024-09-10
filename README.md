@@ -78,13 +78,3 @@ From the menu, you can choose to use the divider or combiner, or exit the progra
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements or new features!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-### Notes:
-- Replace `<repository_url>` and `<project_directory>` with the appropriate values.
-- Adjust the license section as per your project's license.
-- You can add any additional information specific to your project as needed.
