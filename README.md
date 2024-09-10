@@ -1,4 +1,3 @@
-```markdown
 # File Divider and Combiner
 
 This project provides two main functionalities: dividing a large text file into smaller batches and combining multiple text files into a single file. It’s a simple command-line utility implemented in Python.
