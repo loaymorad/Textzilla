@@ -20,8 +20,8 @@ This project provides two main functionalities: dividing a large text file into 
 2. Navigate to the project directory.
 
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/loaymorad/Textzilla.git
+cd textzilla
 ```
 
 ## Usage
